@@ -1,0 +1,4 @@
+include ':commonlibrary'
+include ':network'
+include ':app'
+rootProject.name = "MVVMDemo"
